@@ -3,3 +3,5 @@ services:
   testsvcs:
     build: .
     image: testsvcs:v1
+    ports:
+      - "8080:3000"
