@@ -1,6 +1,5 @@
 const express = require('express')
 const app = express()
-const data = require('./data/data.json')
 
 app.port = 3000
 
