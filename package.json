@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AbhiRoy96/tutoVista.git"
+    "url": "git+https://github.com/XingLiu-Shenzhen/TestDeployments.git"
   },
   "author": "Abhishek-Dell",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/AbhiRoy96/tutoVista/issues"
+    "url": "https://github.com/XingLiu-Shenzhen/TestDeployments/issues"
   },
-  "homepage": "https://github.com/AbhiRoy96/tutoVista#readme",
+  "homepage": "https://github.com/XingLiu-Shenzhen/TestDeployments#readme",
   "devDependencies": {
     "chai": "^4.0.2",
     "mocha": "^3.4.2",
